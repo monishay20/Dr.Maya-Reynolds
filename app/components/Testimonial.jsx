@@ -27,11 +27,11 @@ const testimonials = [
 
 const Testimonials = () => {
   return (
-    <section className="py-24 bg-[#fbf8f5]">
+    <section className="py-24 bg-[#ffff]">
       <div className="max-w-7xl mx-auto px-6 md:px-12">
 
         {/* Heading */}
-        <div className="max-w-2xl mb-16">
+        <div className="flex flex-col items-center max-w-2xl mb-16 mx-auto text-center">
           <h2 className="text-4xl md:text-5xl font-medium text-[#223614] mb-6">
             What Clients Are Saying
           </h2>

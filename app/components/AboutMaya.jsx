@@ -6,7 +6,7 @@ const AboutMaya = () => {
       className="relative py-24 overflow-hidden"
       style={{
         backgroundImage:
-          "url('https://plus.unsplash.com/premium_photo-1676197935286-14d7fbb56760?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')",
+          "url('https://image.slidesdocs.com/responsive-images/background/gorgeous-texture-of-light-green-powerpoint-background_89e32e5821__960_540.jpg')",
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
@@ -30,7 +30,7 @@ const AboutMaya = () => {
         {/* RIGHT CONTENT (DIRECT ON GLASS) */}
         <div className="max-w-xl text-[#223614]">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-medium mb-6 leading-tight">
-            Meet Dr. Maya Reynolds, PsyD
+            Meet Dr. Maya Reynolds, Santa Monica Clinical Psychologist
           </h2>
 
           <p className="text-base md:text-lg leading-relaxed mb-6">
